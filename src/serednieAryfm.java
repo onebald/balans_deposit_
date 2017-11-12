@@ -17,6 +17,7 @@ public class serednieAryfm {
             System.out.println("Баланс на кінець " + rik + " року становить: " + balance);
         }
         System.out.println("Цілковитий баланс протягом " + (int)termin + " років становить: " + balance);
+        System.out.println("gogogo");
 
     }
 
